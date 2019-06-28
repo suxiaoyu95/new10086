@@ -5,4 +5,7 @@ import com.jt.pojo.Cart;
 
 public interface CartMapper extends BaseMapper<Cart> {
 
+	//1.1111111
+	
+	
 }
