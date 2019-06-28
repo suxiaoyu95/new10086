@@ -25,6 +25,9 @@ public class ItemServiceImpl implements ItemService {
 		return list;
 	}
 
+	
+	//778887788777
+	
 	@Override
 	public void decreaseNumbers(List<Item> list) {
 		if (log.isInfoEnabled()) {
